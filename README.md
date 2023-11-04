@@ -46,7 +46,8 @@ admin.site.register(football_players,football_playersAdmin)
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-18 083918-1.png>)
+![Screenshot 2023-10-18 083918](https://github.com/Haripriya132006/ORM/assets/144870747/cf01aa08-f409-4a60-a65f-b82efb5ddfcd)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
