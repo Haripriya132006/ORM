@@ -46,9 +46,7 @@ admin.site.register(football_players,football_playersAdmin)
 ```
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
-
+C:\Users\admin\ORM\Screenshot 2023-10-18 083918-1.png
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
